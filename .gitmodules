@@ -1,0 +1,9 @@
+[submodule "microservices/ems-arthurbarbosa-temperature-monitoring"]
+	path = microservices/ems-arthurbarbosa-temperature-monitoring
+	url = git@github.com:arthurBarbosa/ems-arthurbarbosa-temperature-monitoring.git
+[submodule "microservices/ems-arthurbarbosa-temperature-processing"]
+	path = microservices/ems-arthurbarbosa-temperature-processing
+	url = git@github.com:arthurBarbosa/ems-arthurbarbosa-temperature-processing.git
+[submodule "microservices/ems-arthurbarbosa-temperature-management"]
+	path = microservices/ems-arthurbarbosa-temperature-management
+	url = git@github.com:arthurBarbosa/ems-arthurbarbosa-temperature-management.git
